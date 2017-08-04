@@ -1,7 +1,6 @@
 /**
-* BasicThread é um programa básico para aplicar conceitos básicos
-* de Threads, em que 2 threads são rodadas, implementando
-* a interface Runnable
+* vendo como fazer sem threads, pra depois implementar
+* com elas e ver a execução concorrente.
 **/
 public class BasicThreadSemThread {
 	    static int i = 0;
